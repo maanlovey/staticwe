@@ -1,0 +1,221 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:#fff;
+}
+
+header {
+    background-color:rgb(169, 59, 59);
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 50px;
+    background-color:rgb(193, 184, 184);
+    margin: 10px;
+}
+.container {
+    display: flex;
+}
+.shifted-about{
+    color: rgb(169, 59, 59);
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.shifted-line{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(169, 59, 59);
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.shifted-image {
+    height: 300px;
+    width: 250px;
+    margin-left: 200px;
+    border-radius: 50px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.key{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(169, 59, 59);
+    text-align: center;
+}
+.skill1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(169, 59, 59);
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.skill2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(169, 59, 59);
+    margin-top: 50px;
+    margin-left: 200px;
+
+}
+.skill3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(169, 59, 59);
+    margin-top: 50px;
+    margin-left: 200px;
+
+}
+.skill4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(169, 59, 59);
+    margin-top: 50px;
+    margin-left: 200px;
+
+}
+.project {
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 150px;
+}
+.photo1{
+    margin-left: 100px;
+    border-radius: 50px;
+    height: 200px;
+    width: 150px;
+
+}
+.photo2{
+    margin-left: 200px;
+    border-radius: 50px;
+    height: 200px;
+    width: 150px;
+
+}
+.photo3{
+    margin-left: 200px;
+    border-radius: 50px;
+    height: 200px;
+    width: 150px;
+
+}
+.photo4{
+    margin-left: 200px;
+    border-radius: 50px;
+    height: 200px;
+    width: 150px;
+
+}
+.des1{
+    margin-left: 50px;
+    color: rgb(169, 59, 59);
+    
+}
+.des2{
+    margin-left: 80px;
+    color: rgb(169, 59, 59);
+
+
+}
+.des3{
+    margin-left: 50px;
+    color: rgb(169, 59, 59);
+
+}
+.des4{
+    margin-left: 50px;
+    color: rgb(169, 59, 59);
+
+}
+.click{
+    font-size: 30px;
+    color: rgba(164, 68, 150, 0.856);
+}
+
+/* Styles for the footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color:#fff;   
+}
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+.and{
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.head{
+    text-align: center;
+    background-color: antiquewhite;
+    color:#123d62;
+}
+.ti{
+    margin-top: 50px;
+    text-align: center;
+    color: #161c21;
+}
+.cri{
+    color:#123d62;
+    margin-top: 100px;
+
+}
+.book{
+    margin-left: 250px;
+    color:#123d62;
+    margin-top: 100px;
+        
+}
+.tra{
+    margin-left: 250px;
+    color:#123d62;
+    margin-top: 100px;
+    
+}
+.wat{
+    margin-left: 300px;
+    color:#123d62;
+    margin-top: 100px;
+}
+.list{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color:#123d62;
+    margin-top: 100px;
+}
+.one{
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 400px;
+    width: 850px;
+
+}
+.two{
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 400px;
+    width: 850px;
+}
+.three{
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 400px;
+    width: 850px;
+}
